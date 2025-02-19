@@ -13,7 +13,8 @@
 * WM: KWin (Wayland)
 
 <br/>
-### Issue:
+
+### Issue
 
 After using the quickpassthrough, I do get stuck after entering my password to decrypt the drive.
 
