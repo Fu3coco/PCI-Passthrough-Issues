@@ -1,4 +1,4 @@
-# Hardware
+### Hardware
 * Intel i5 14700K
 * AMD Asus RX 7600 XT Dual 16GB
 * MSI Z790-P motherboard
@@ -6,7 +6,7 @@
 
 <br/>
 
-# System
+### System
 * OS - Arch
 * Kernel -  Linux 6.13.2-arch1-1
 * DE: KDE Plasma 6.3.1
