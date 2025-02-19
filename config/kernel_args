@@ -1,0 +1,1 @@
+iommu=pt intel_iommu=on vfio_pci.ids=1002:7480 vfio_pci.disable_vga=1
